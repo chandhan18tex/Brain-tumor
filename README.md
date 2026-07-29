@@ -1,6 +1,6 @@
 # Brain Tumour Image Classification using CNN
 
-> **67% test accuracy** on 1,311 unseen MRI scans across 4 tumour classes — built from scratch using TensorFlow/Keras.
+> **A decent test accuracy** on 1,311 unseen MRI scans across 4 tumour classes — built from scratch using TensorFlow/Keras.
 
 ---
 
